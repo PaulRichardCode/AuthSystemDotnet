@@ -8,7 +8,8 @@ namespace AuthSystemDotnet.Migrations
     /// <inheritdoc />
     public partial class InitialCreate : Migration
     {
-        /// <inheritdoc />
+        /// <inheritdoc 
+        //hhggh
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
